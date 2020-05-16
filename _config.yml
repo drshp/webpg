@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-root: /octo-5
+#root: /octo-5
 
 title: Your awesome title
 email: your-email@example.com
