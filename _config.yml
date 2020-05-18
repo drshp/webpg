@@ -18,15 +18,13 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-#root: /octo-5
-
 title: Dibya Ranjan
 email: dibyrjn243@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "/" # the subpath of your site, e.g. /blog
+  I am a graduate in Computer Science and Engineering from IIT Kanpur.
+  I am an Amateur Astronomer, an avid astrophotographer and  have an obession with Harry Potter novels.
+  I also like solving different types of Rubiks cube.  
+baseurl: "webpg" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: drshp7
 github_username:  drshp
